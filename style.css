@@ -1,0 +1,4 @@
+body{
+    background-color: color-mix(in hsl shorter hue, color percentage, color percentage);
+    color: black;
+}
